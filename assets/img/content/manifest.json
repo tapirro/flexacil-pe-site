@@ -1,0 +1,20 @@
+{
+  "glucosamina": {
+    "local_path": "assets/img/content/glucosamina.jpg",
+    "attribution_html": "Foto: Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --Donald Trung 『徵國單』 (No Fake News 💬) (WikiProject Numismatics 💴) (Articles 📚) 11:19, 8 October 2020 (UTC) / <a href=\"https://commons.wikimedia.org/wiki/File%3AGlucosamine_%28plantaardig%29%2C_Etos_Winschoten_%282020%29.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow\">CC BY-SA 4.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3AGlucosamine_%28plantaardig%29%2C_Etos_Winschoten_%282020%29.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "curcuma": {
+    "local_path": "assets/img/content/curcuma.jpg",
+    "attribution_html": "Foto: Galeri ega / <a href=\"https://commons.wikimedia.org/wiki/File%3ABumbu_dan_Rempah_-_rempah.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow\">CC BY-SA 4.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3ABumbu_dan_Rempah_-_rempah.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "una-de-gato": {
+    "local_path": "assets/img/content/una-de-gato.jpg",
+    "attribution_html": "Foto: Kristi Denby/Archivo Centro Takiwasi / <a href=\"https://commons.wikimedia.org/wiki/File%3ACorteza_y_espina_curva_de_u%C3%B1a_de_gato_%28Uncaria_tomentosa%29.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow\">CC BY-SA 4.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3ACorteza_y_espina_curva_de_u%C3%B1a_de_gato_%28Uncaria_tomentosa%29.jpg",
+    "license": "CC BY-SA 4.0"
+  }
+}
