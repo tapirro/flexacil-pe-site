@@ -851,8 +851,11 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         if(!phone||phone.length<7)return;
         var btn=form.querySelector('button');
         btn.textContent='Enviando...';btn.disabled=true;
+        var tld=location.hostname.split('.').pop();
+        var country=tld==='pe'?'Peru':tld==='co'?'Colombia':tld==='com'?'LATAM':'';
         postJSON('/api/leads',{
-          name:'Embed lead',phone:phone,email:'',
+          name:'Embed lead',phone:phone,email:'',country:country,
+          product:'Flexacil Ultra',
           session_id:sid,visitor_id:visId,visit_number:vn,slides_viewed:engageCount,
           source:location.hostname,
           utm_source:'embed',utm_medium:'video',utm_campaign:'dolor-articular',
@@ -873,6 +876,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "VideoObject", "name": "Esto no te lo contaron sobre tus articulaciones", "description": "Video informativo sobre Flexacil Ultra - Esto no te lo contaron sobre tus articulaciones", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/96_curiosity_gap_flexacil.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/96_curiosity_gap_flexacil.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://flexacil.pe/"}, {"@type": "VideoObject", "name": "¿Dolor articular? Mira esto", "description": "Video informativo sobre Flexacil Ultra - ¿Dolor articular? Mira esto", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/58_question_education_flexacil.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/58_question_education_flexacil.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://flexacil.pe/"}, {"@type": "VideoObject", "name": "Lo que tu doctor quiere que sepas", "description": "Video informativo sobre Flexacil Ultra - Lo que tu doctor quiere que sepas", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/60_doctor_says_problem_solution_flexacil.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/60_doctor_says_problem_solution_flexacil.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://flexacil.pe/"}, {"@type": "VideoObject", "name": "Mitos sobre las articulaciones", "description": "Video informativo sobre Flexacil Ultra - Mitos sobre las articulaciones", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/61_myth_bust_myth_debunk_flexacil.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/61_myth_bust_myth_debunk_flexacil.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://flexacil.pe/"}]}</script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
