@@ -775,6 +775,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var sid='s_'+Date.now()+'_'+Math.random().toString(36).substr(2,6);
       var visId=(function(){try{var v=localStorage.getItem('hs_vid');if(!v){v='v_'+Date.now()+'_'+Math.random().toString(36).substr(2,8);localStorage.setItem('hs_vid',v)}return v}catch(e){return 'v_'+Date.now()}})();
       var vn=(function(){try{var n=parseInt(localStorage.getItem('hs_vn')||'0')+1;localStorage.setItem('hs_vn',String(n));return n}catch(e){return 1}})();
+      var embedV=13;
       function beacon(path,data){
         if(API){try{navigator.sendBeacon(API+path,JSON.stringify(data))}catch(e){xhrFallback(path,data)}}
         else{q.push([path,data])}
@@ -827,7 +828,6 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var engaged={};
       var engageCount=0;
       var formShown=false;
-      var embedV=12;
       var hasPlayed=false;
       function track(evt,vid,src,extra){
         var data={event:evt,video:vid,site:location.hostname,source:src,ts:Date.now(),embed_v:embedV,session_id:sid,visitor_id:visId,visit_number:vn};
@@ -959,6 +959,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "VideoObject", "name": "Esto no te lo contaron sobre tus articulaciones", "description": "Video informativo sobre Flexacil Ultra - Esto no te lo contaron sobre tus articulaciones", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/96_curiosity_gap_flexacil.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/96_curiosity_gap_flexacil.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://flexacil.pe/"}, {"@type": "VideoObject", "name": "¿Dolor articular? Mira esto", "description": "Video informativo sobre Flexacil Ultra - ¿Dolor articular? Mira esto", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/58_question_education_flexacil.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/58_question_education_flexacil.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://flexacil.pe/"}, {"@type": "VideoObject", "name": "Lo que tu doctor quiere que sepas", "description": "Video informativo sobre Flexacil Ultra - Lo que tu doctor quiere que sepas", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/60_doctor_says_problem_solution_flexacil.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/60_doctor_says_problem_solution_flexacil.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://flexacil.pe/"}, {"@type": "VideoObject", "name": "Mitos sobre las articulaciones", "description": "Video informativo sobre Flexacil Ultra - Mitos sobre las articulaciones", "thumbnailUrl": "https://tapirro.github.io/hilart-shorts/thumbnails/61_myth_bust_myth_debunk_flexacil.jpg", "contentUrl": "https://tapirro.github.io/hilart-shorts/videos/61_myth_bust_myth_debunk_flexacil.mp4", "uploadDate": "2026-03-31", "duration": "PT15S", "embedUrl": "https://flexacil.pe/"}]}</script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
