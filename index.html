@@ -870,7 +870,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var sid='s_'+Date.now()+'_'+Math.random().toString(36).substr(2,6);
       var visId=(function(){try{var v=localStorage.getItem('hs_vid');if(!v){v='v_'+Date.now()+'_'+Math.random().toString(36).substr(2,8);localStorage.setItem('hs_vid',v)}return v}catch(e){return 'v_'+Date.now()}})();
       var vn=(function(){try{var n=parseInt(localStorage.getItem('hs_vn')||'0')+1;localStorage.setItem('hs_vn',String(n));return n}catch(e){return 1}})();
-      var embedV=28;
+      var embedV=29;
       var ua=navigator.userAgent||'';
       var ref=document.referrer||'';
       var sw=screen.width||0;
@@ -1026,7 +1026,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           if(hasPlayed)showLeadForm();
         });
         v.addEventListener('timeupdate',function(){
-          if(hasPlayed&&playStartTime&&(Date.now()-playStartTime)>8000)showLeadForm();
+          if(hasPlayed&&playStartTime&&(Date.now()-playStartTime)>5000)showLeadForm();
         });
       });
       // Lead form submission
@@ -1149,6 +1149,8 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         },{threshold:0});
         scrollObs.observe(section);
       }
+      // Page-time trigger: show form after 20s if user has interacted (even without video click)
+      setTimeout(function(){if(hadInteraction&&!formShown)showLeadForm()},20000);
       // Floating video CTA — draws attention to video section when it's below the fold
       // Appears after 5s, pulses, scrolls to videos on tap, hides when section is visible
       if(section){
@@ -1193,6 +1195,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuáles son los mejores remedios naturales para el dolor articular?", "acceptedAnswer": {"@type": "Answer", "text": "Los tres más efectivos son: compresas de jengibre fresco (15 min sobre la articulación para reducir inflamación), ejercicio suave diario (10 min de caminata + estiramientos), y cúrcuma con pimienta negra en ayunas (la pimienta activa la absorción)."}}, {"@type": "Question", "name": "¿Qué ejercicios ayudan con el dolor de articulaciones?", "acceptedAnswer": {"@type": "Answer", "text": "La caminata suave de 10 minutos y estiramientos diarios son lo más recomendado. La articulación necesita movimiento para nutrirse. Evita impacto fuerte como correr; prefiere natación o bicicleta estática."}}, {"@type": "Question", "name": "¿Por qué duelen las articulaciones con la edad?", "acceptedAnswer": {"@type": "Answer", "text": "Con los años, el cartílago que amortigua las articulaciones se desgasta naturalmente. Factores como sobrepeso, falta de ejercicio y deficiencia de colágeno aceleran el proceso. Mantener un peso saludable y consumir glucosamina y condroitína ayuda a proteger las articulaciones."}}, {"@type": "Question", "name": "¿Qué vitaminas son buenas para los huesos y articulaciones?", "acceptedAnswer": {"@type": "Answer", "text": "Las más importantes son vitamina D (exposición solar 15 min/día), calcio (lácteos, brócoli, almendras), vitamina C (cítricos, pimentón), y colágeno tipo II. La glucosamina y condroitína también son esenciales para el cartílago articular."}}, {"@type": "Question", "name": "¿Cómo desinflamar las articulaciones rápidamente?", "acceptedAnswer": {"@type": "Answer", "text": "Para alivio rápido: aplica hielo envuelto en tela durante 15 minutos, eleva la articulación afectada, y toma infusión de jengibre o cúrcuma. Evita movimientos bruscos. Si la inflamación persiste más de 3 días, consulta a tu médico."}}]}</script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
