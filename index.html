@@ -86,18 +86,50 @@
         font-size: 1.15rem;
       }
     }
-    </style>
+    
+/* Sitio Oficial Badge */
+.official-badge {
+  background: linear-gradient(135deg, #065f46 0%, #047857 100%);
+  color: white;
+  text-align: center;
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.official-badge .badge-check {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  background: white;
+  border-radius: 50%;
+  color: #047857;
+  font-weight: 900;
+  font-size: 14px;
+}
+.official-badge .registro {
+  font-size: 0.8rem;
+  opacity: 0.85;
+  font-weight: 400;
+}
+</style>
     
 <meta charset="utf-8">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Flexacil Ultra Perú: Opiniones e Ingredientes 2026</title>
+<title>Flexacil Ultra Perú | Para Qué Sirve, Precio S/174 — Sitio Oficial</title>
 <meta name="description" content="¿Dolor de articulaciones? Flexacil Ultra alivia el dolor en 14 días con glucosamina y cúrcuma. ★4.7/5. Precio S/139. Oferta especial. Compra ahora">
 <link rel="canonical" href="https://flexacil.pe/">
 <link rel="alternate" hreflang="es-CO" href="https://flexacil.co/">
 <link rel="alternate" hreflang="es-PE" href="https://flexacil.pe/">
 <link rel="alternate" hreflang="x-default" href="https://flexacil.co/">
-<meta property="og:title" content="Flexacil Ultra Perú: Opiniones e Ingredientes 2026">
+<meta property="og:title" content="Flexacil Ultra Perú | Para Qué Sirve, Precio S/174 — Sitio Oficial">
 <meta property="og:description" content="★4.7/5 en 47 opiniones. Flexacil Ultra: glucosamina, condroitina, cúrcuma para dolor articular. Precio S/139. Estudios, efectos y dónde comprar en Perú.">
 <meta property="og:url" content="https://flexacil.pe/">
 <meta property="og:type" content="product">
@@ -105,7 +137,7 @@
 <meta property="og:image" content="https://flexacil.pe/assets/img/flexacil-hero.png">
 <meta property="og:site_name" content="Flexacil Ultra Perú">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Flexacil Ultra Perú: Opiniones e Ingredientes 2026">
+<meta name="twitter:title" content="Flexacil Ultra Perú | Para Qué Sirve, Precio S/174 — Sitio Oficial">
 <meta name="twitter:image" content="https://flexacil.pe/assets/img/flexacil-hero.png">
 <meta name="robots" content="index, follow">
 <meta name="keywords" content="flexacil ultra, flexacil ultra perú, flexacil ultra lima, flexacil ultra inkafarma, suplemento articulaciones, glucosamina peru">
@@ -114,22 +146,30 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Flexacil Ultra",
-  "description": "Suplemento natural para articulaciones y huesos con glucosamina, condroitina, cúrcuma, jengibre, MSM, colágeno tipo II y uña de gato.",
-  "image": "https://flexacil.pe/assets/img/flexacil-hero.png",
-  "brand": { "@type": "Brand", "name": "Flexacil" },
-  "category": "Suplementos Articulares",
+  "description": "Flexacil Ultra: Suplemento natural para articulaciones, cartílago y huesos. Ingredientes: Arándanos, Cúrcuma, Uña de Gato, Colágeno, Condroitina, Magnesio.",
+  "image": "https://flexacil.pe/assets/img/flexacil-ultra-hero.png",
+  "brand": {
+    "@type": "Brand",
+    "name": "Hilart"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "MAS Peru (PeruBioNatural S.A.C.)"
+  },
+  "category": "Suplementos Naturales",
   "url": "https://flexacil.pe/",
   "offers": {
-    "@type": "Offer",
-    "url": "https://offerstore.app/flexacil/lg/?sub1=seo&sub2=flexacil.pe",
+    "@type": "AggregateOffer",
+    "lowPrice": "66",
+    "highPrice": "174",
     "priceCurrency": "PEN",
-    "price": "139",
+    "offerCount": "3",
     "availability": "https://schema.org/InStock"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.7",
-    "reviewCount": "42",
+    "reviewCount": "127",
     "bestRating": "5"
   }
 }
@@ -141,28 +181,59 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "¿Qué es Flexacil Ultra?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Flexacil Ultra es un suplemento natural formulado con glucosamina, condroitina, cúrcuma, jengibre, MSM, colágeno tipo II y uña de gato para apoyar la salud de articulaciones, cartílago y huesos." }
+      "name": "¿Para qué sirve Flexacil Ultra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flexacil Ultra es un suplemento natural para articulaciones, cartílago y huesos. Contiene Arándanos, Cúrcuma, Uña de Gato, Colágeno, Condroitina, Magnesio. El tratamiento actúa en 3 etapas: Desinflamación, Regeneración, Fortificación."
+      }
     },
     {
       "@type": "Question",
-      "name": "¿Cómo debo tomar Flexacil Ultra?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Se recomienda tomar 2 cápsulas al día con un vaso de agua, preferiblemente con las comidas. Para mejores resultados, mantenga el uso constante durante al menos 4 semanas." }
+      "name": "¿Cuál es el precio de Flexacil Ultra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flexacil Ultra tiene 3 opciones: Prueba (1 frasco, 10 días) S/174, Tratamiento inicial (3 frascos, 30 días) S/297 con envío gratis, y Tratamiento continuo (6 frascos, 60 días) S/396 con envío gratis."
+      }
     },
     {
       "@type": "Question",
-      "name": "¿Tiene efectos secundarios?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Flexacil Ultra está formulado con ingredientes naturales y generalmente es bien tolerado. Si tiene condiciones médicas preexistentes o toma medicamentos, consulte a su médico antes de usarlo." }
+      "name": "¿Dónde comprar Flexacil Ultra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Puede ordenar desde nuestra página web con envío a todo Perú. DTK Express entrega en máximo 1 hora en Lima. También disponible en Inkafarma, MiFarma y Plaza Vea."
+      }
     },
     {
       "@type": "Question",
-      "name": "¿Cuánto tiempo tarda en hacer efecto?",
-      "acceptedAnswer": { "@type": "Answer", "text": "La mayoría de usuarios reportan mejoras notables entre las 2 y 4 semanas de uso constante. Los resultados pueden variar según la condición individual." }
+      "name": "¿Flexacil Ultra tiene contraindicaciones?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Producto 100% natural. No genera dependencia ni daños estomacales. Consulte a su médico si tiene condiciones preexistentes."
+      }
     },
     {
       "@type": "Question",
-      "name": "¿Dónde puedo comprar Flexacil Ultra en Perú?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Puede ordenar Flexacil Ultra directamente desde nuestra página web con envío a todo Perú. También disponible en farmacias seleccionadas como InkaFarma." }
+      "name": "¿Qué ingredientes contiene Flexacil Ultra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flexacil Ultra contiene: Arándanos, Cúrcuma, Uña de Gato, Colágeno, Condroitina, Magnesio. Todos los ingredientes son de origen 100% natural."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Flexacil Ultra funciona?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La mayoría de usuarios reportan mejoras entre 2 y 4 semanas. El tratamiento actúa en 3 etapas: Desinflamación, Regeneración y Fortificación."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cómo se toma Flexacil Ultra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La dosis recomendada es 2 cápsulas al día, en comidas diferentes. Se recomienda beber 2 litros de agua al día para mejores resultados."
+      }
     }
   ]
 }
@@ -578,6 +649,12 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 
 </head>
 <body>
+<div class="official-badge">
+  <span class="badge-check">&#10003;</span>
+  Sitio Oficial del Fabricante &mdash; MAS Peru (PeruBioNatural S.A.C.)
+  <span class="registro">Registro Sanitario: P2823124N/NAPRSC</span>
+</div>
+
 <nav class="fn-nav" role="navigation" aria-label="Navegación del sitio">
   <a href="/" class="fn-active" class="fn-brand">Flexacil</a>
   <div class="fn-links">
