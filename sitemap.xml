@@ -643,8 +643,38 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-cargador-mercado/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-choferes-interprovincial/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-corredor-principiante/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-danza-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/articulaciones-y-deporte-amateur/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-escaleras-cerros-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -657,6 +687,18 @@
   <url>
     <loc>https://flexacil.pe/condiciones/articulaciones-y-sobrepeso/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-trabajo-agricola-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-trabajo-construccion/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -687,6 +729,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/artrosis-de-rodilla/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/artrosis-y-mineria-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -727,6 +775,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/desgaste-de-cadera/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/desgaste-de-cartilago/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -739,8 +793,68 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-menopausia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-nocturno-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/dolor-articular-nocturno/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-por-frio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-y-altura-cusco/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-y-diabetes-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-y-embarazo-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-y-menopausia-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-y-mineria-artesanal/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-y-obesidad-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-cervical-celular/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -811,6 +925,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/dolor-espalda-y-choferes-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-manos-y-dedos/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/dolor-muscular/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -831,6 +957,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/esguince-de-tobillo/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/espolon-calcaneo/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -859,8 +991,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/fibromialgia-y-estres-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/fibromialgia/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/gota-y-cerveza-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -919,6 +1063,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/recuperacion-post-fractura/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/rehabilitacion-post-cirugia-articular/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -943,6 +1093,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/tendinitis-aquiles/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/tendinitis/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -963,6 +1119,12 @@
   <url>
     <loc>https://flexacil.pe/ingrediente/colageno-tipo-ii/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/ingrediente/colageno/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1007,11 +1169,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/ingrediente/colageno/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
