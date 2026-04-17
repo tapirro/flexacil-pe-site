@@ -620,7 +620,7 @@
   </url>
   <url>
     <loc>https://flexacil.pe/ingredientes/jengibre/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -643,7 +643,37 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-deporte-amateur/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-menopausia/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/articulaciones-y-sobrepeso/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/artritis-psoriasica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/artritis-reumatoide/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/artritis-y-clima-frio/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -691,6 +721,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/dedo-en-gatillo/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/desgaste-de-cartilago/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -698,6 +734,12 @@
   </url>
   <url>
     <loc>https://flexacil.pe/condiciones/dolor-articulaciones/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-articular-nocturno/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -734,6 +776,12 @@
   </url>
   <url>
     <loc>https://flexacil.pe/condiciones/dolor-de-hombro/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-de-manos/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -799,6 +847,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/espondilosis-cervical/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/fascitis-plantar/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -841,7 +895,31 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/osteocondritis-disecante/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/osteopenia/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/osteoporosis/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/polimialgia-reumatica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/rehabilitacion-post-cirugia-articular/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
