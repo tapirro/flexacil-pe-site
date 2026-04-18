@@ -536,13 +536,13 @@
   </url>
   <url>
     <loc>https://flexacil.pe/ingredientes/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://flexacil.pe/condiciones/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -607,6 +607,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/artritis-psoriasica-avanzada/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/artritis-psoriasica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -661,6 +667,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/capsulitis-adhesiva-hombro/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/ciatica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -681,6 +693,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/dedo-en-gatillo/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dedo-en-resorte/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -883,8 +901,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/escoliosis-degenerativa/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/escoliosis/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/esguince-cronico/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -915,6 +945,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/espondilosis-cervical/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/estenosis-espinal/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -973,8 +1009,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/mialgia/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/osteocondritis-disecante/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/osteocondritis/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1049,53 +1097,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/osteocondritis/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/capsulitis-adhesiva-hombro/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/esguince-cronico/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/escoliosis-degenerativa/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/estenosis-espinal/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/mialgia/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/artritis-psoriasica-avanzada/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/dedo-en-resorte/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
