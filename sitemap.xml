@@ -607,6 +607,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/artritis-degenerativa/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/artritis-psoriasica-avanzada/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
@@ -621,6 +627,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/artritis-reumatoide/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/artritis-y-clima-frio-sierra-peru/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -823,6 +835,24 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/dolor-de-cuello/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-de-dedo-gordo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-de-espalda-baja/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/dolor-de-espalda/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -831,6 +861,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/dolor-de-hombro/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-de-mandibula-atm/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -849,6 +885,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/dolor-de-pie/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-de-rodilla-al-subir-escaleras/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -877,8 +919,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/dolor-lumbar-y-mototaxis-peru/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/dolor-manos-y-dedos/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-muscular-post-ejercicio/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -891,6 +945,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/dolor-rodilla-y-escaleras-edificios/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/dolor-rodillas-y-escaleras-lima/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -961,6 +1021,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/fibromialgia-juvenil/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/fibromialgia-y-estres-lima/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -993,6 +1059,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/inflamacion-articular/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/lesion-de-menisco/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1033,6 +1105,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/osteoporosis-y-dieta-baja-calcio-peru/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/osteoporosis/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1041,6 +1119,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/polimialgia-reumatica/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/protusion-discal/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1075,6 +1159,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.pe/condiciones/sindrome-de-dolor-regional-complejo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/sindrome-del-tunel-carpiano/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.pe/condiciones/sindrome-piriforme/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1083,6 +1179,12 @@
   <url>
     <loc>https://flexacil.pe/condiciones/tendinitis-aquiles/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.pe/condiciones/tendinitis-de-aquiles/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1097,83 +1199,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/sindrome-del-tunel-carpiano/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/tendinitis-de-aquiles/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/dolor-de-dedo-gordo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/protusion-discal/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/dolor-de-cuello/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/artritis-degenerativa/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/dolor-de-rodilla-al-subir-escaleras/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/dolor-de-espalda-baja/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/dolor-muscular-post-ejercicio/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/lesion-de-menisco/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/dolor-de-mandibula-atm/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/sindrome-de-dolor-regional-complejo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://flexacil.pe/condiciones/fibromialgia-juvenil/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
